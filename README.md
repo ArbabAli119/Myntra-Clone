@@ -1,2 +1,2 @@
 # Myntra-Clone
-E-commerce site
+E-commerce site off Myntra
